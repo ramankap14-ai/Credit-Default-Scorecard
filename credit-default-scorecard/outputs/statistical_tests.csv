@@ -1,0 +1,13 @@
+test,variable,statistic,p_value,effect_size,effect_metric,p_bonferroni,significant_at_5pct
+chi-square,any_late,3733.4608,0.0,0.3529,Cramer's V,0.0,True
+chi-square,util_high,133.7176,0.0,0.0669,Cramer's V,0.0,True
+chi-square,SEX,47.7088,0.0,0.04,Cramer's V,0.0,True
+chi-square,EDUCATION,160.41,0.0,0.0731,Cramer's V,0.0,True
+chi-square,MARRIAGE,28.1303,0.0,0.0306,Cramer's V,0.0,True
+mann-whitney,LIMIT_BAL,59257217.5,0.0,0.3822,P(defaulter > non-defaulter),0.0,True
+mann-whitney,AGE,78076624.5,0.3725,0.5036,P(defaulter > non-defaulter),1.0,False
+mann-whitney,util_1,85340194.5,0.0,0.5504,P(defaulter > non-defaulter),0.0,True
+mann-whitney,avg_util,87436674.5,0.0,0.5639,P(defaulter > non-defaulter),0.0,True
+mann-whitney,pay_ratio_1,67562301.5,0.0,0.4358,P(defaulter > non-defaulter),0.0,True
+mann-whitney,avg_pay_ratio,65591533.5,0.0,0.4231,P(defaulter > non-defaulter),0.0,True
+mann-whitney,max_delay,110983165.0,0.0,0.7158,P(defaulter > non-defaulter),0.0,True

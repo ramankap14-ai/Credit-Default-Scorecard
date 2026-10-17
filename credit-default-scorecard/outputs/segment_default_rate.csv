@@ -1,0 +1,19 @@
+segment_type,segment,customers,defaults,default_rate_pct
+credit_limit,a. under 50k,4311,1555,36.1
+credit_limit,b. 50-100k,7139,1857,26.0
+credit_limit,c. 100-200k,7400,1537,20.8
+credit_limit,d. 200k+,11150,1687,15.1
+latest_repayment_status,a. paid in full / no use,8445,1319,15.6
+latest_repayment_status,b. revolving,14737,1888,12.8
+latest_repayment_status,c. 1 month late,3688,1252,33.9
+latest_repayment_status,d. 2 months late,2667,1844,69.1
+latest_repayment_status,e. 3+ months late,463,333,71.9
+latest_utilisation,a. zero,2598,643,24.7
+latest_utilisation,b. under 30%,12194,2065,16.9
+latest_utilisation,c. 30-60%,4307,999,23.2
+latest_utilisation,d. 60-90%,4851,1338,27.6
+latest_utilisation,e. 90%+,6050,1591,26.3
+months_late_of_last_6,0,19931,2334,11.7
+months_late_of_last_6,1,4426,1320,29.8
+months_late_of_last_6,2,1899,736,38.8
+months_late_of_last_6,3+,3744,2246,60.0

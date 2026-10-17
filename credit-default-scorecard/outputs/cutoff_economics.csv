@@ -1,0 +1,5 @@
+loss_to_gain_ratio,break_even_default_rate_pct,chosen_approval_rate_pct,cutoff_score,test_approved,test_default_rate_among_approved_pct,test_profit_at_cutoff,test_profit_approve_all
+2,33.3,80,509.6,7237,14.3,4135,3027
+3,25.0,70,523.3,6361,12.7,3133,1036
+4,20.0,70,523.3,6361,12.7,2326,-955
+6,14.3,50,542.9,4609,11.0,1060,-4937
